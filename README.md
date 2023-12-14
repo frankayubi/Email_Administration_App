@@ -33,3 +33,8 @@ Before running the application, ensure you have the following:
    ```bash
    git clone https://github.com/your-username/Email_Administration_Application.git
 
+2. Navigate to the project directory:
+
+   ```bash
+   cd Email_Administration_Application
+
