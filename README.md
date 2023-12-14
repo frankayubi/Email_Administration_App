@@ -38,3 +38,26 @@ Before running the application, ensure you have the following:
    ```bash
    cd Email_Administration_Application
 
+3. Compile the Java files:
+   ```bash
+   javac src/emailapp/*.java
+
+4. Run the application
+   ```bash
+   java -cp src emailapp.EmailApp
+
+## Usage
+
+1. Upon running the application, follow the prompts to create a new email account.
+2. Enter the required information, including first name, last name, and department code.
+3. The application will generate a secure password for the new email account.
+4. View account information, including the company email and mailbox capacity.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, issues, and feature requests are welcome!
+
+## License
+
+This project is licensed under the MIT License.
+
